@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fSrt5SngxKzvrHnLI9ueznVriyDXTZt36NkTJMsL2Lz3ORqQw+Y9J4RezIMalEwEmWdqo51v3kRbHWHHNM6AWg==",
+  "dgSpecHash": "Mh0seyLxthkXkJjbXtXuJk+3VT+Bn10uWdeu6su5Nu4JvYn4CTex/2qR8i21r4YShS18PXA7rD9NGZDaXybzwA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Fishboy2002\\source\\repos\\SNICKERS\\Shared\\SNICKERS.Shared.csproj",
+  "projectFilePath": "C:\\Users\\Fishboy2002\\source\\repos\\SeanFishy\\SNICKERS\\Shared\\SNICKERS.Shared.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Fishboy2002\\.nuget\\packages\\microsoft.csharp\\4.6.0\\microsoft.csharp.4.6.0.nupkg.sha512",
     "C:\\Users\\Fishboy2002\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.3\\microsoft.entityframeworkcore.6.0.3.nupkg.sha512",

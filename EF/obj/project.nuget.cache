@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eMsT27g52/ZSZkwquKoHI1LnolBo+9Rv+3uv+updS7P2wffjoTNuaaWMX+7+FOSMT8wWlYlXOZ/IAnGaN+Q8Hg==",
+  "dgSpecHash": "08p6lipXw8ubvDk7swDV562PPmxMxAbC9TiLdBdzPz7KKorlS2s3bJmpQjscpmR94R+mS48jQi7Rt+FexDZiRA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Fishboy2002\\source\\repos\\SNICKERS\\EF\\SNICKERS.EF.csproj",
+  "projectFilePath": "C:\\Users\\Fishboy2002\\source\\repos\\SeanFishy\\SNICKERS\\EF\\SNICKERS.EF.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Fishboy2002\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.3\\microsoft.entityframeworkcore.6.0.3.nupkg.sha512",
     "C:\\Users\\Fishboy2002\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.3\\microsoft.entityframeworkcore.abstractions.6.0.3.nupkg.sha512",

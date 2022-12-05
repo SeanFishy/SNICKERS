@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Fishboy2002\\source\\repos\\SNICKERS\\EF\\SNICKERS.EF.csproj": {}
+    "C:\\Users\\Fishboy2002\\source\\repos\\SeanFishy\\SNICKERS\\EF\\SNICKERS.EF.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Fishboy2002\\source\\repos\\SNICKERS\\EF\\SNICKERS.EF.csproj": {
+    "C:\\Users\\Fishboy2002\\source\\repos\\SeanFishy\\SNICKERS\\EF\\SNICKERS.EF.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Fishboy2002\\source\\repos\\SNICKERS\\EF\\SNICKERS.EF.csproj",
+        "projectUniqueName": "C:\\Users\\Fishboy2002\\source\\repos\\SeanFishy\\SNICKERS\\EF\\SNICKERS.EF.csproj",
         "projectName": "SNICKERS.EF",
-        "projectPath": "C:\\Users\\Fishboy2002\\source\\repos\\SNICKERS\\EF\\SNICKERS.EF.csproj",
+        "projectPath": "C:\\Users\\Fishboy2002\\source\\repos\\SeanFishy\\SNICKERS\\EF\\SNICKERS.EF.csproj",
         "packagesPath": "C:\\Users\\Fishboy2002\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Fishboy2002\\source\\repos\\SNICKERS\\EF\\obj\\",
+        "outputPath": "C:\\Users\\Fishboy2002\\source\\repos\\SeanFishy\\SNICKERS\\EF\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Fishboy2002\\AppData\\Roaming\\NuGet\\NuGet.Config",

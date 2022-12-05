@@ -3525,11 +3525,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Fishboy2002\\source\\repos\\SNICKERS\\Shared\\SNICKERS.Shared.csproj",
+      "projectUniqueName": "C:\\Users\\Fishboy2002\\source\\repos\\SeanFishy\\SNICKERS\\Shared\\SNICKERS.Shared.csproj",
       "projectName": "SNICKERS.Shared",
-      "projectPath": "C:\\Users\\Fishboy2002\\source\\repos\\SNICKERS\\Shared\\SNICKERS.Shared.csproj",
+      "projectPath": "C:\\Users\\Fishboy2002\\source\\repos\\SeanFishy\\SNICKERS\\Shared\\SNICKERS.Shared.csproj",
       "packagesPath": "C:\\Users\\Fishboy2002\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Fishboy2002\\source\\repos\\SNICKERS\\Shared\\obj\\",
+      "outputPath": "C:\\Users\\Fishboy2002\\source\\repos\\SeanFishy\\SNICKERS\\Shared\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Fishboy2002\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3547,8 +3547,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Fishboy2002\\source\\repos\\SNICKERS\\EF\\SNICKERS.EF.csproj": {
-              "projectPath": "C:\\Users\\Fishboy2002\\source\\repos\\SNICKERS\\EF\\SNICKERS.EF.csproj"
+            "C:\\Users\\Fishboy2002\\source\\repos\\SeanFishy\\SNICKERS\\EF\\SNICKERS.EF.csproj": {
+              "projectPath": "C:\\Users\\Fishboy2002\\source\\repos\\SeanFishy\\SNICKERS\\EF\\SNICKERS.EF.csproj"
             }
           }
         }

@@ -10,3 +10,15 @@ C:\Users\Fishboy2002\source\repos\SNICKERS\EF\obj\Debug\net6.0\SNICKERS.EF.dll
 C:\Users\Fishboy2002\source\repos\SNICKERS\EF\obj\Debug\net6.0\refint\SNICKERS.EF.dll
 C:\Users\Fishboy2002\source\repos\SNICKERS\EF\obj\Debug\net6.0\SNICKERS.EF.pdb
 C:\Users\Fishboy2002\source\repos\SNICKERS\EF\obj\Debug\net6.0\ref\SNICKERS.EF.dll
+C:\Users\Fishboy2002\source\repos\SeanFishy\SNICKERS\EF\bin\Debug\net6.0\SNICKERS.EF.deps.json
+C:\Users\Fishboy2002\source\repos\SeanFishy\SNICKERS\EF\bin\Debug\net6.0\SNICKERS.EF.dll
+C:\Users\Fishboy2002\source\repos\SeanFishy\SNICKERS\EF\bin\Debug\net6.0\SNICKERS.EF.pdb
+C:\Users\Fishboy2002\source\repos\SeanFishy\SNICKERS\EF\obj\Debug\net6.0\SNICKERS.EF.csproj.AssemblyReference.cache
+C:\Users\Fishboy2002\source\repos\SeanFishy\SNICKERS\EF\obj\Debug\net6.0\SNICKERS.EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fishboy2002\source\repos\SeanFishy\SNICKERS\EF\obj\Debug\net6.0\SNICKERS.EF.AssemblyInfoInputs.cache
+C:\Users\Fishboy2002\source\repos\SeanFishy\SNICKERS\EF\obj\Debug\net6.0\SNICKERS.EF.AssemblyInfo.cs
+C:\Users\Fishboy2002\source\repos\SeanFishy\SNICKERS\EF\obj\Debug\net6.0\SNICKERS.EF.csproj.CoreCompileInputs.cache
+C:\Users\Fishboy2002\source\repos\SeanFishy\SNICKERS\EF\obj\Debug\net6.0\SNICKERS.EF.dll
+C:\Users\Fishboy2002\source\repos\SeanFishy\SNICKERS\EF\obj\Debug\net6.0\refint\SNICKERS.EF.dll
+C:\Users\Fishboy2002\source\repos\SeanFishy\SNICKERS\EF\obj\Debug\net6.0\SNICKERS.EF.pdb
+C:\Users\Fishboy2002\source\repos\SeanFishy\SNICKERS\EF\obj\Debug\net6.0\ref\SNICKERS.EF.dll
