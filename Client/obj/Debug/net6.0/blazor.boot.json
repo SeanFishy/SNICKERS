@@ -221,17 +221,17 @@
       "mscorlib.dll": "sha256-SboUbkX8s5RVQGtnN5Q67MBZW0I\/P3aeEMENJq8gv8M=",
       "netstandard.dll": "sha256-lZ8L5iiSghlvyt2ie2YdBYAtJbVa4mvpvBX3W9ihjLc=",
       "System.Private.CoreLib.dll": "sha256-jECkJy2Sjpl59QEL3nO3p8nwKGXvnJpXaKQF\/+MTw04=",
-      "SNICKERS.EF.dll": "sha256-7UulT1ePMpgtY0M8FcWiE7ZEEwptOW7e+0eNXAn1OC8=",
-      "SNICKERS.Shared.dll": "sha256-3aNT+MPknz8p\/jK4Nso5rv27xTwkkBPKrC8YGxTORmM=",
-      "SNICKERS.Client.dll": "sha256-KJlYUr9s4JE5ppRmBhJ\/Mcte4i1HnH8gTkHK+p1WSfI="
+      "SNICKERS.EF.dll": "sha256-zXkrfFZbGyDNTCkbeTrFZMKb4r0UU7yAn2WG98J9cqQ=",
+      "SNICKERS.Shared.dll": "sha256-8VVe7qys4qzO3HQ7adUY\/qRUtEupWEJMLsC4B5cqHgo=",
+      "SNICKERS.Client.dll": "sha256-pALfAx+HYe3YrePRblriPGIh+ezzftOOmFwY5smZ7zk="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "SNICKERS.Shared.pdb": "sha256-mmi5xjhsSeJsH8b2ShtQlR9Gif1lKLDiFbDpCQ+VtGE=",
-      "SNICKERS.EF.pdb": "sha256-cI503\/MUH94dtaFSa9FLYKy\/w0ScxZY7wknI1wyNghg=",
-      "SNICKERS.Client.pdb": "sha256-zr2E+bCPrXss7\/PUw1jC2\/zCJhehSZwOsbc0vSgDgxg="
+      "SNICKERS.Shared.pdb": "sha256-F4SRGwHgwTx5pReul5MxPmQ2nOOP7XGqrZTVlyo+IA4=",
+      "SNICKERS.EF.pdb": "sha256-gkDuIXKBUG7U6+OQxhShleN7nspRPz+aWUj6eG3yuGM=",
+      "SNICKERS.Client.pdb": "sha256-X3PaP90JvIRHhTVE0xDRY7XPMEwhlrADbAdLIBVVqU8="
     },
     "runtime": {
       "dotnet.6.0.10.h9tize8htx.js": "sha256-KtM3Wrooexmrt5NmqvZfWoDPtNIe6wZqLopR6ToqUPg=",

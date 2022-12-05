@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+C3ML0UxH8OahYSTP/Bj/TSUdwp4O1gp1t6z/iNs/tyBt0uh43rrdWG5sJoRaYrf5TVLlV2R+tijTYkE1s7EUg==",
+  "dgSpecHash": "1BTZYliOXklBIrAUKfB6eYZIDbGCCFf9uuSva63/KpwTBy8HhcGYFOLxphhK4AxEDnyji6K8qJ4yVX4xI24xzg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Fishboy2002\\source\\repos\\SNICKERS\\Client\\SNICKERS.Client.csproj",
+  "projectFilePath": "C:\\Users\\Fishboy2002\\source\\repos\\SeanFishy\\SNICKERS\\Client\\SNICKERS.Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Fishboy2002\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.10\\microsoft.aspnetcore.authorization.6.0.10.nupkg.sha512",
     "C:\\Users\\Fishboy2002\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.10\\microsoft.aspnetcore.components.6.0.10.nupkg.sha512",

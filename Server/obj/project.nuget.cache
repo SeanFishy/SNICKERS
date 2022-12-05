@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/YxPzxQ34XYHqg21AUW77NBAIBz5nhX5k8l5CV3eaCCHTHHKNbHWxxuoe6LW21bgB0jS4dRA6p49riduSHVlsA==",
+  "dgSpecHash": "HulgOqqABQ2dWRqAputKjyeY7Arbe6DEWBIFYpa9Ks/Z+RcyHO3Ui7REpM++UKASE5V7V8bhmK5caP+am4SB4Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Fishboy2002\\source\\repos\\SNICKERS\\Server\\SNICKERS.Server.csproj",
+  "projectFilePath": "C:\\Users\\Fishboy2002\\source\\repos\\SeanFishy\\SNICKERS\\Server\\SNICKERS.Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Fishboy2002\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
     "C:\\Users\\Fishboy2002\\.nuget\\packages\\duende.identityserver\\5.2.0\\duende.identityserver.5.2.0.nupkg.sha512",
